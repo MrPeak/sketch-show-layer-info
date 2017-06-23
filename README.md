@@ -6,7 +6,7 @@ Show selected layer's `ObjectID`, `Class` and `ID`. It is of great use for plugi
 
 ## Installation
 
-[Download](https://github.com/MrPeak/sketch-search-everywhere/archive/master.zip) and extract the contents of this repository. Then double-click the `Sketch Show Layer Info.sketchplugin` bundle to install the plugin.
+[Download](https://github.com/MrPeak/sketch-show-layer-info/archive/master.zip) and extract the contents of this repository. Then double-click the `Sketch Show Layer Info.sketchplugin` bundle to install the plugin.
 
 ## Usage
 
