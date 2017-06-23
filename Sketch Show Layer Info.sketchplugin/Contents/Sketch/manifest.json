@@ -1,0 +1,22 @@
+{
+  "author" : "MrPeak",
+  "commands" : [
+    {
+      "script" : "main.js",
+      "handler" : "onRun",
+      "shortcut" : "command alt e",
+      "name" : "Show",
+      "identifier" : "show"
+    }
+  ],
+  "menu": {
+    "items": [
+      "show"
+    ]
+  },
+  "identifier" : "com.sketchapp.plugins.show-layer-info",
+  "version" : "1.0",
+  "description" : "Show ObjectID, Name, Class of selected layer. It is of great use for plugin development or file parsing",
+  "authorEmail" : "gfeng.peak@gmail.com",
+  "name" : "Show Layer Info"
+}
